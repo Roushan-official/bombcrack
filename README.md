@@ -1,4 +1,4 @@
-# BombCrack
+# BombCrack : unlimted messages and calls
 A cracker for the `bomber.py` obfuscated Python script from TheSpeedX/TBomb (also check issue [#22](https://github.com/TheSpeedX/TBomb/issues/22).)
 
 ## Project is frozen.
